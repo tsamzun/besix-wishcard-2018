@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1760" height="1156" viewBox="0 0 1760 1156">
+  <defs>
+    <polygon id="b" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <filter id="a" width="126.6%" height="143.3%" x="-13.3%" y="-13.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="82" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="57"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0193653006 0 0 0 0 0.158791471 0 0 0 0 0.27123193 0 0 0 0.176205842 0"/>
+    </filter>
+    <polygon id="c" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="e" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="g" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="i" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="k" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="m" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="o" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="q" points="195 0 95 400 195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 1595 480 1075 480 755 560 715 460 655 500 475 280"/>
+    <polygon id="s" points="100 0 0 400 110 500 275 780 870 700 1500 480 980 480 660 560 560 500 380 280"/>
+    <polygon id="u" points="100 0 0 400 110 500 275 780 870 700 1500 480 980 480 660 560 560 500 380 280"/>
+    <polygon id="w" points="100 0 0 400 110 500 275 780 870 700 1500 480 980 480 660 560 560 500 380 280"/>
+    <polygon id="y" points="100 0 0 400 110 500 275 780 870 700 1500 480 980 480 660 560 560 500 380 280"/>
+    <polygon id="A" points="0 320 385 100 345 0 285 40"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(92 2)">
+    <g fill-rule="nonzero">
+      <use fill="black" filter="url(#a)" xlink:href="#b"/>
+      <use fill="#000000" fill-rule="evenodd" xlink:href="#b"/>
+    </g>
+    <mask id="d" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+    <polygon fill="#E20512" fill-rule="nonzero" points="195 510 45 620 0 895 370 780 215 870 100 980 635 900 965 720 755 560 655 500" mask="url(#d)"/>
+    <mask id="f" fill="white">
+      <use xlink:href="#e"/>
+    </mask>
+    <polygon fill="#000000" fill-rule="nonzero" points="195 510 45 620 0 895 370 780 100 980 635 900 965 720 755 560 655 500" mask="url(#f)" opacity=".3"/>
+    <mask id="h" fill="white">
+      <use xlink:href="#g"/>
+    </mask>
+    <polygon fill="#E20512" fill-rule="nonzero" points="195 510 45 620 0 895 183.817 796.406 370 780 242.534 874.419 100 980 635 890 965 720 755 560 655 500" mask="url(#h)"/>
+    <mask id="j" fill="white">
+      <use xlink:href="#i"/>
+    </mask>
+    <polygon fill="#27348B" fill-rule="nonzero" points="130.223 525.409 357.946 779.948 979.234 848.065 998.735 655.179 227.061 454.68" mask="url(#j)" opacity=".4"/>
+    <mask id="l" fill="white">
+      <use xlink:href="#k"/>
+    </mask>
+    <polygon fill="#FFFFFF" fill-rule="nonzero" points="140.223 515.409 367.946 779.948 979.234 828.065 998.735 655.179 227.061 454.68" mask="url(#l)"/>
+    <g>
+      <mask id="n" fill="white">
+        <use xlink:href="#m"/>
+      </mask>
+      <polygon fill="#27348B" fill-rule="nonzero" points="165.223 500 367.946 779.948 998.735 770.603 998.735 655.179 227.061 454.68" mask="url(#n)" opacity=".4"/>
+    </g>
+    <g>
+      <mask id="p" fill="white">
+        <use xlink:href="#o"/>
+      </mask>
+      <polygon fill="#0093D6" fill-rule="nonzero" points="195 0 95 400 195 510 370 780 965 720 1595 480 1075 480 755 560 655 500 475 280" mask="url(#p)"/>
+    </g>
+    <g>
+      <mask id="r" fill="white">
+        <use xlink:href="#q"/>
+      </mask>
+      <polygon fill="#27348B" fill-rule="nonzero" points="195 0 95 400 195 510 370 780 965 720 1595 480 1075 480 755 560 655 500 475 280" mask="url(#r)" opacity=".4"/>
+    </g>
+    <g fill="#0093D6" fill-rule="nonzero" transform="translate(95)">
+      <polygon points="100 0 0 400 110 500 275 780 870 700 1500 480 980 480 660 560 560 500 380 280"/>
+    </g>
+    <g transform="translate(95)">
+      <mask id="t" fill="white">
+        <use xlink:href="#s"/>
+      </mask>
+      <polygon fill="#FFFFFF" fill-rule="nonzero" points="987.701 453.557 808.438 831.243 1561.496 453.557" mask="url(#t)" opacity=".1"/>
+    </g>
+    <g transform="translate(95)">
+      <mask id="v" fill="white">
+        <use xlink:href="#u"/>
+      </mask>
+      <polygon fill="#000000" fill-rule="nonzero" points="266.845 779.993 633.958 538.891 989.524 779.993" mask="url(#v)" opacity=".05"/>
+    </g>
+    <g transform="translate(95)">
+      <mask id="x" fill="white">
+        <use xlink:href="#w"/>
+      </mask>
+      <polygon fill="#000000" fill-rule="nonzero" points="0 400 560 502.24 380 280" mask="url(#x)" opacity=".05"/>
+    </g>
+    <g transform="translate(95)">
+      <mask id="z" fill="white">
+        <use xlink:href="#y"/>
+      </mask>
+      <polygon fill="#FFFFFF" fill-rule="nonzero" points="0 400 380 280 100 0" mask="url(#z)" opacity=".1"/>
+    </g>
+    <g fill="#FFFFFF" fill-rule="nonzero" transform="translate(370 460)">
+      <polygon points="0 320 385 100 345 0 285 40"/>
+    </g>
+    <g transform="translate(370 460)">
+      <mask id="B" fill="white">
+        <use xlink:href="#A"/>
+      </mask>
+      <polygon fill="#27348B" fill-rule="nonzero" points="-17.054 338.631 442.701 -84.204 442.701 134.635" mask="url(#B)" opacity=".4"/>
+    </g>
+  </g>
+</svg>
